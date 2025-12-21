@@ -20,6 +20,10 @@ To verify Thevenin’s theorem practically and theoretically for the given DC ci
 
 **THEORY:**
 
+
+![WhatsApp Image 2025-12-21 at 10 09 37 PM](https://github.com/user-attachments/assets/f848e7f0-2bcd-4ffe-9bfa-502cb1151202)
+![WhatsApp Image 2025-12-21 at 10 09 37 PM (1)](https://github.com/user-attachments/assets/12201337-14fb-4ace-9291-de0c87e28afb)
+
 **THEVENIN’S THEOREM:**
 
 Thevenin’s theorem states that, ‘a linear two-terminal circuit can be replaced by an equivalent circuit consisting of a voltage source, VTh (= Voc) in series with a resistor RTh, where VTh is the open-circuit voltage at the load terminals and RThis the input or equivalent resistance at the load terminals( AB) when the independent sources are turned off’.
